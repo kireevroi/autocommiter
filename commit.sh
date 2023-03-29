@@ -1,4 +1,6 @@
 #!/bin/bash
+cd /root/autocommiter/
+set -e
 git config user.name "kireevroi"
 git config user.email "kireevroi@gmail.com"
 # loop randomly from 0 to 4
